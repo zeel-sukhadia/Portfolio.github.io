@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio.github.io/static/css/main.87e94448.css",
+    "main.js": "/Portfolio.github.io/static/js/main.a9b16940.js",
+    "static/js/787.128fc6e9.chunk.js": "/Portfolio.github.io/static/js/787.128fc6e9.chunk.js",
+    "static/media/fronted2.jpg": "/Portfolio.github.io/static/media/fronted2.94c636965077695853a3.jpg",
+    "static/media/React_JS3.jpg": "/Portfolio.github.io/static/media/React_JS3.12cbe0a60d86833c2143.jpg",
+    "static/media/ecommerce.jpg": "/Portfolio.github.io/static/media/ecommerce.496dd1966a48908999b5.jpg",
+    "static/media/intro_img.jpg": "/Portfolio.github.io/static/media/intro_img.7e77d7e87662f1663609.jpg",
+    "static/media/editor.jpg": "/Portfolio.github.io/static/media/editor.2c253b20424dd80abfbb.jpg",
+    "static/media/coding3.jpg": "/Portfolio.github.io/static/media/coding3.dcbb5378c9871f24e442.jpg",
+    "static/media/coding5.jpg": "/Portfolio.github.io/static/media/coding5.3aa7fbdf62dbf48d0f67.jpg",
+    "index.html": "/Portfolio.github.io/index.html",
+    "main.87e94448.css.map": "/Portfolio.github.io/static/css/main.87e94448.css.map",
+    "main.a9b16940.js.map": "/Portfolio.github.io/static/js/main.a9b16940.js.map",
+    "787.128fc6e9.chunk.js.map": "/Portfolio.github.io/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e94448.css",
+    "static/js/main.a9b16940.js"
+  ]
+}
