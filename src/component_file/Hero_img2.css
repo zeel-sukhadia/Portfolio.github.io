@@ -6,7 +6,7 @@
 }
 
 .hero_img{
-    background: url("D:\react_prac\my_portfolio\src\my_image\coding3.jpg"); 
+    background: url("../my_image/coding3.jpg"); 
     background-size:auto;
     background-position:center top ;
     height: 60vh; 
